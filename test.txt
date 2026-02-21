@@ -1,3 +1,4 @@
 this is test one
 This is test one second line 
 this is test one therd line.
+logo alignment is centerd. 
